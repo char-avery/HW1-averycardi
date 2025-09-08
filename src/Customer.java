@@ -1,0 +1,7 @@
+package hw1DanielK;
+
+public record Customer(String name, int tableNumber) { }
+
+	//This is here because it stores the customers name and table number
+
+
