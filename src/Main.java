@@ -1,4 +1,4 @@
-package hw1DanielK;
+package hw1averyc;
 public class Main {
     public static void main(String[] args) {
         // Create dishes
