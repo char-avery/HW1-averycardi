@@ -1,4 +1,4 @@
-package hw1DanielK;
+package HW1AveryCardi;
 
 public abstract class MenuItem {
 private final String name; 

@@ -1,4 +1,4 @@
-package hw1DanielK;
+package HW1AveryCardi;
 
 public record Customer(String name, int tableNumber) { }
 

@@ -1,4 +1,4 @@
-package hw1DanielK;
+package HW1AveryCardi;
 import java.util.LinkedList;
 import java.util.Queue;
 

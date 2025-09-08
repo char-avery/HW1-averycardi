@@ -1,4 +1,4 @@
-package hw1DanielK;
+package HW1AveryCardi;
 
 public interface Prepare {
 
@@ -6,4 +6,4 @@ public interface Prepare {
 
 	
 }
-//This is the method signature for the prepare() method. 
+

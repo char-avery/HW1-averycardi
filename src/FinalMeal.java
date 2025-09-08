@@ -1,4 +1,4 @@
-package hw1DanielK;
+package HW1AveryCardi;
 public final class FinalMeal extends MenuItem implements Prepare {
 private final String ingredients;
 public FinalMeal(String name, double price, String ingredients) {
